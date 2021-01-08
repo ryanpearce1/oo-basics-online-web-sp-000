@@ -11,6 +11,8 @@ class Shoe
   def cobble
     @cobble = "new" 
     puts "The shoe is now new!"
+  end
+  
 end
   
   
