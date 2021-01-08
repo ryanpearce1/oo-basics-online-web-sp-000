@@ -8,6 +8,9 @@ class Shoe
     @brand = brand
   end
   
+  def cobble
+    @cobble = new 
+    puts "The show is now new!"
 end
   
   
